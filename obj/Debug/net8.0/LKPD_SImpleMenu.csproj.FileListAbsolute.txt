@@ -1,0 +1,14 @@
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\bin\Debug\net8.0\LKPD_SImpleMenu.exe
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\bin\Debug\net8.0\LKPD_SImpleMenu.deps.json
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\bin\Debug\net8.0\LKPD_SImpleMenu.runtimeconfig.json
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\bin\Debug\net8.0\LKPD_SImpleMenu.dll
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\bin\Debug\net8.0\LKPD_SImpleMenu.pdb
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.AssemblyInfoInputs.cache
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.AssemblyInfo.cs
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.csproj.CoreCompileInputs.cache
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.dll
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\refint\LKPD_SImpleMenu.dll
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.pdb
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\LKPD_SImpleMenu.genruntimeconfig.cache
+D:\Belajar_Dasar_C#\LKPD_SImpleMenu\LKPD_SImpleMenu\obj\Debug\net8.0\ref\LKPD_SImpleMenu.dll
